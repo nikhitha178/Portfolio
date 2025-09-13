@@ -13,6 +13,8 @@ export default defineConfig(({ mode }) => ({
     resolve: {
         alias: {
             "@": path.resolve(__dirname, "./src"),
+
         },
     },
+    assetsInclude: ['**/*.JPG', '**/*.jpg', '**/*.png', '**/*.svg'],
 }));

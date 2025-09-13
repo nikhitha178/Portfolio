@@ -31,4 +31,4 @@ function index() {
     );
 }
 
-export default Index;
+export default index;
