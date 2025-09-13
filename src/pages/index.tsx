@@ -5,7 +5,7 @@ import SkillsSection from '@/components/SkillsSection';
 import ProjectsSection from '@/components/ProjectsSection';
 import ContactSection from '@/components/ContactSection';
 
-const Index = () => {
+function index() {
     return (
         <div className="min-h-screen bg-background">
             <Navigation />
@@ -29,6 +29,6 @@ const Index = () => {
             </footer>
         </div>
     );
-};
+}
 
 export default Index;
