@@ -3,7 +3,7 @@
 A modern, responsive personal portfolio built with React + Vite + TailwindCSS.
 It showcases my profile, skills, and projects in a clean and professional way.
 
-🔗 Live Portfolio: portfolio-taupe-kappa-26.vercel.app
+🔗 Live Portfolio: portfolio-j189ahiv0-nikhitha-janapanas-projects.vercel.app
 
 ✨ Features
 
@@ -58,3 +58,4 @@ src/
  – Icons
 
 ✨ Feel free to fork this repo and customize it for your own portfolio!
+
