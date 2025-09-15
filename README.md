@@ -22,7 +22,7 @@ It showcases my profile, skills, and projects in a clean and professional way.
 Follow these steps to run the project locally:
 
 1. Clone the Repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/nikhitha178/Portfolio.git
 cd your-repo-name
 
 2. Install Dependencies
@@ -58,4 +58,5 @@ src/
  – Icons
 
 ✨ Feel free to fork this repo and customize it for your own portfolio!
+
 
